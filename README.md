@@ -23,9 +23,9 @@ openVision is a cutting-edge computer vision platform designed to revolutionize 
 ![Dashboard Screenshot](image.png)
 
 ### Video Demo
-[![Watch Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://drive.google.com/file/d/1RyoXbkRpvOj7JXuxczyTi6JlyXqipNWF/view?usp=sharing)
+[![Watch Demo Video](image.png)](https://youtu.be/B3XmHVKUUuU)
 
-Click the image above or [watch our demo video](https://drive.google.com/file/d/1RyoXbkRpvOj7JXuxczyTi6JlyXqipNWF/view?usp=sharing) on Google Drive to see openVision in action!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B3XmHVKUUuU" title="openVision Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 🚀 Getting Started
 
