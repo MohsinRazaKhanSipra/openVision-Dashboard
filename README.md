@@ -1,6 +1,6 @@
 # openVision
 
-![openVision Logo](https://via.placeholder.com/800x400?text=openVision+Dashboard)  
+![openVision Logo](logo.png)  
 *Version 0.1 - An Amazing Computer Vision Platform*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -20,11 +20,13 @@ openVision is a cutting-edge computer vision platform designed to revolutionize 
 ## 📹 Demo
 
 ### Screenshots
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
-![Camera Feed](https://via.placeholder.com/800x400?text=Camera+Feed+Example)
+![Dashboard Screenshot](image.png)
 
 ### Video Demo
-Check out our [demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to see openVision in action! (Placeholder link - replace with actual demo video)
+<video width="320" height="240" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🚀 Getting Started
 
